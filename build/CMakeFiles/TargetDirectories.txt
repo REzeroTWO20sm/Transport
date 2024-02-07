@@ -1,0 +1,3 @@
+/home/robert/Labs/Transport/build/CMakeFiles/Transport.dir
+/home/robert/Labs/Transport/build/CMakeFiles/edit_cache.dir
+/home/robert/Labs/Transport/build/CMakeFiles/rebuild_cache.dir
