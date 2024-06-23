@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/robert/Labs/Transport/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/Transport.dir/Transport.cpp.o -c /home/robert/Labs/Transport/Transport.cpp",
+  "file": "/home/robert/Labs/Transport/Transport.cpp",
+  "output": "CMakeFiles/Transport.dir/Transport.cpp.o"
+}
+]
